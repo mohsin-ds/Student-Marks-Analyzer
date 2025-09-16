@@ -74,17 +74,17 @@ The project includes multiple plots for better insights:
 
 # How to Run
 
-Clone this repo
+**Clone this repo**
 
-git clone https://github.com/mohisn-ds/student-marks-analyzer.git
+git clone https://github.com/mohisn-ds/Student-Marks-Analyzer.git
 
 cd student-marks-analyzer
 
-Install dependencies
+**Install dependencies**
 
 pip install pandas numpy matplotlib jupyter
 
-Open Jupyter Notebook
+**Open Jupyter Notebook**
 
 jupyter notebook Student_Marks_Analyzer.ipynb
 
