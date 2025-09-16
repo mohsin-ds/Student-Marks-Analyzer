@@ -1,5 +1,7 @@
 # 📝 Student Marks Analyzer
+
 **📌 Project Overview**
+
 The Student Marks Analyzer project demonstrates how to use NumPy, Pandas, and Matplotlib together to:
 
 Load and clean a dataset of student marks.
@@ -16,19 +18,19 @@ This project is ideal for practicing data cleaning, analysis, and visualization.
 
 **Columns:**
 
-Name → Student name
+**Name →** Student name
 
-Math → Marks in Math
+**Math →** Marks in Math
 
-Physics → Marks in Physics
+**Physics →** Marks in Physics
 
-Chemistry → Marks in Chemistry
+**Chemistry →** Marks in Chemistry
 
-Total → Total marks of each student (calculated)
+**Total →** Total marks of each student (calculated)
 
-Average → Average marks of each student (calculated)
+**Average →** Average marks of each student (calculated)
 
-Rows: Each row represents one student’s record.
+**Rows:** Each row represents one student’s record.
 
 # 🛠️ Technologies Used
 
