@@ -78,7 +78,7 @@ The project includes multiple plots for better insights:
 
 **Clone this repo**
 
-git clone https://github.com/mohisn-ds/Student-Marks-Analyzer.git
+git clone https://github.com/mohsin-ds/Student-Marks-Analyzer.git
 
 cd student-marks-analyzer
 
